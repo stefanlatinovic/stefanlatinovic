@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Stefan
 
-As a passionate Web3 enthusiast, my goal is to become a security researcher and contribute to the safety of the Web3 space for everyone.
+Backend engineer passionate about security. That's why I care about building software that's correct, well-tested, and resilient.
